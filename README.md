@@ -21,6 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Better Web Applications with Laravel and Techine Solutions](https://dev.to/abdullahthedev/building-better-web-applications-with-laravel-and-techine-solutions-59m6)
+- [Should I Upgrade from Laravel 8 to 9/10?](https://dev.to/abdullahthedev/should-i-upgrade-from-laravel-8-to-910-15hh)
+- [Coding vs shopify](https://dev.to/abdullahthedev/coding-vs-shopify-3l99)
+- [Which language is best for developing e commerce store?](https://dev.to/abdullahthedev/which-language-is-best-for-developing-e-commerce-store-1bd5)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
