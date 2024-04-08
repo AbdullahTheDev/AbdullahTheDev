@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and nodeJs**
 
-- 👨‍💻 All of my projects are available at [https://abdullahw-com.stackstaging.com/](https://abdullahw-com.stackstaging.com/)
+- 👨‍💻 All of my projects are available at [https://abdullah.techinesolutions.com/](https://abdullah.techinesolutions.com/)
 
 - 💬 Ask me about **Laravel and javascript**
 
