@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate full stack website developer from Pakistan</h3>
+<h3 align="center">A passionate full stack laravel website developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahthedev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahthedev" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdullah050421" target="blank"><img src="https://img.shields.io/twitter/follow/abdullah050421?logo=twitter&style=for-the-badge" alt="abdullah050421" /></a> </p>
 
-- 🌱 I’m currently learning **React and nodeJs**
+- 🌱 I’m currently learning **Flutter and Soft Skills**
 
 - 👨‍💻 All of my projects are available at [https://abdullah.techinesolutions.com/](https://abdullah.techinesolutions.com/)
 
