@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdullah050421" target="blank"><img src="https://img.shields.io/twitter/follow/abdullah050421?logo=twitter&style=for-the-badge" alt="abdullah050421" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and Soft Skills**
+- 🌱 I’m currently learning **Livewire and Soft Skills**
 
 - 👨‍💻 All of my projects are available at [https://abdullah.techinesolutions.com/](https://abdullah.techinesolutions.com/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abdullahwaseem.4401@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hmBGQrqoSMVBVZORKYRjWmQ5r5qcQ3nk/view?usp=sharing](https://drive.google.com/file/d/1hmBGQrqoSMVBVZORKYRjWmQ5r5qcQ3nk/view?usp=sharing)
+- 📄 Know about my experiences [https://abdullah.techinesolutions.com/cv/Abdullah-Developer-Resume.pdf](https://abdullah.techinesolutions.com/cv/Abdullah-Developer-Resume.pdf)
 
 - ⚡ Fun fact **Coding never makes me tired**
 
