@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdullah050421" target="blank"><img src="https://img.shields.io/twitter/follow/abdullah050421?logo=twitter&style=for-the-badge" alt="abdullah050421" /></a> </p>
 
-- 🌱 I’m currently learning **Livewire and Soft Skills**
+- 🌱 I’m currently learning **React in LAravel and Soft Skills**
 
 - 👨‍💻 All of my projects are available at [https://abdullah.techinesolutions.com/](https://abdullah.techinesolutions.com/)
 
