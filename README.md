@@ -13,7 +13,8 @@
 - 💻 Developer at Digital Cube  
 - 🌱 Currently learning **React (TSX)** & improving **soft skills**  
 - 💬 Ask me about **Laravel, React, JavaScript, APIs, Payment Gateways**  
-- 📫 Reach me at **abdullahwaseem.4401@gmail.com**  
+- 📫 Reach me at **abdullahwaseem.4401@gmail.com**
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1WQGTwubmc0JEA7Rmsc_sFwblx6-257HK/view?usp=sharing)
 - ⚡ Fun fact: *Coding never makes me tired.*
 
 ---
