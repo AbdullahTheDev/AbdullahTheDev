@@ -9,7 +9,6 @@
 
 ### 🚀 About Me
 
-- 🎓 CS Student at SZABIST University, Karachi  
 - 🌱 Currently learning **Devops** & improving **soft skills**  
 - 💬 Ask me about **Laravel, NextJS, React, JavaScript, APIs, Payment Gateways**  
 - 📫 Reach me at **syedhasan.freelancer@gmail.com**
