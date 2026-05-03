@@ -14,6 +14,7 @@
 - 💬 Ask me about **Laravel, NextJS, React, JavaScript, APIs, Payment Gateways**  
 - 📫 Reach me at **syedhasan.freelancer@gmail.com**
 - ⚡ Fun fact: *Coding never makes me tired.*
+- Here's my Upwork profile https://www.upwork.com/freelancers/~01d54d578e6e02c36b
 
 ---
 
