@@ -59,13 +59,14 @@
 ---
 
 ### 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdullahTheDev&theme=dark)](https://git.io/streak-stats)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahthedev&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahthedev&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahthedev" alt="GitHub Streak" />
-</p>
+</p> -->
