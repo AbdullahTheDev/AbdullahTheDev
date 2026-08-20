@@ -60,8 +60,6 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdullahTheDev)](https://git.io/streak-stats)
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahthedev&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
